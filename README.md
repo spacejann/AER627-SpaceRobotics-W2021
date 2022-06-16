@@ -3,4 +3,6 @@ This repository contains 4 projects that I worked on for my space robotics class
 
 
 Project 1 - Rotary and Prismatic Joints
-https://www.youtube.com/watch?v=hjMx8EuyZJ8
+Project 2 - Barcode Scanner
+Project 3 - Writing Robot
+Project 4 - Rover
